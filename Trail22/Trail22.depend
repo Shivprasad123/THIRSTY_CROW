@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1526820881 source:/home/shivprasasd/CG/Project/Trail22/main.c
+	<stdio.h>
+	<stdlib.h>
+	<GL/glut.h>
+	<time.h>
+	<SOIL/SOIL.h>
+
